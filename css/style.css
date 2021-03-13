@@ -1,0 +1,81 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+.back_dv{
+    position: relative;
+    background: #0092DD;
+    padding: 5vw;
+    color: white;
+    -webkit-transform: rotate(5deg);
+    margin-top: -100px;
+    margin-left: -100px;
+    margin-right: -5000px;
+  background-size: cover;
+  background-position: center center;
+  overflow: hidden;
+}
+
+body {
+  margin: 0px; 
+  font-family: Raleway, sans-serif; 
+  overflow:hidden; 
+  position: relative;
+}
+
+.grey{
+    background-color: #95a5a6;
+    padding: 2.5vw;
+    margin-top: 0px !important;
+    margin-bottom: -100px;
+}
+
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 20px;
+}
+h1 a, 
+h2 a{
+    text-decoration: none !important;
+}
+sub{
+    font-size: 30px;
+}
+p{
+    font-size: 15px;
+}
+.back_dv a{
+    margin-top: 0px;
+    color: white;
+}
+a{
+    color: #0092DD;
+}
+
+.inner{
+    padding-top: 250px;
+    -webkit-transform: rotate(-5deg);
+    max-width: 50vw;
+    margin-left: 100px;
+    padding-right: 100px;
+}
+.inverse{
+    color: #0092DD;
+    padding: 5vw;
+    padding-top: 0vw;
+}
+.inverse a img{
+  max-height: 1vw;
+}
+p.icons{
+    color: #95a5a6;
+    font-size: 15px;
+    margin: 25px;
+    margin-left: 0px;
+}
+.fa-3x{
+    padding: 20px;
+}
+
+#r1{
+    padding-left: 0px;
+}
