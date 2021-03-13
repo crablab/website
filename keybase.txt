@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/crablab
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://crablab.co.uk
+  * I am crablab (https://keybase.io/crablab) on keybase.
+  * I have a public key with fingerprint F85E A965 6A23 203A C471  B749 AD59 5409 33CE 63DC
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e7acd2a3f2539518ed72fae28fd3af53554d106cc6a7e2569b1a72e3a66fd3f80a",
+      "fingerprint": "f85ea9656a23203ac471b749ad59540933ce63dc",
+      "host": "keybase.io",
+      "key_id": "ad59540933ce63dc",
+      "kid": "0101e7acd2a3f2539518ed72fae28fd3af53554d106cc6a7e2569b1a72e3a66fd3f80a",
+      "uid": "a569293ee149305381e7bbbc514c6719",
+      "username": "crablab"
+    },
+    "service": {
+      "hostname": "crablab.co.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1557797021,
+  "expire_in": 157680000,
+  "prev": "d5801d4b2e344f7a597bbc8d7326c0092317bcecdd36879147bd6b5793dd4c34",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkltIFUEYx4+XyLQgMiwpsVaiopPt7uzs7B6SetBuFNmNkMrj3FY39expd7Ws
+JCHChILsAkVEN3oosoe0C9FDoRkZlYSVWUliERYGBkWgULNWD0GPzcsw3/f7/78L
+c2hCUigloalo/TjwmL5OeDhAQpt7pnbukojDaqTILqmcj168gnHPj5bbTIpIsiIr
+HGHKVAwsFQITKgZnSLUwVw2LAWxBAKHGFFmnVMeIq1A3iYKRygHWdUFYhoylsGTZ
+sVLuxl075gtby4AcmzrUsQpUGWCqIYUgzcQMmlCTTQAo1wGjQljmeIFCNEewx3Nt
+R8TEIzra3j/4/9x31a86IquagHNFM4EMgSHMCSEUKhrVkWIGoMfdGK7kgqYuJhWY
+SLVhSQSrbcqDvQaD/A3kUie3qlxo467jO9SpEKky3497kUDq18QDdjsn0d8uUWLH
+mNijUFRz17OdmBRRBEl9O7BVIETIRLKqhCW+I267PGoHBES6IYsT1OHVwpJBQ1aY
+VkTEsJpmIQxNMQ01GAKqTmXZVIGCCOWUMaAbyFQ0RJhOIDIBYxoFmhQMti3mSBFV
+uPq4VJh6dmkM+1Uul2pTGxJAcighJZSVMTP5e/FFvjVnRqRt243lfz7fmMTg54VS
+x038E3FGxv6I1uwM9bR+ShyuXFsWS++8t7tgaMn1rqclj0Bd41I4b/6x7pyM4vx1
+zXnWrL59zZeb927pKrufdJYNrmhIe3HgqNvquR+nz7l+UV+T7CzY/u7unlSnMTuS
+ER/ozX3W4ZOvNftv158s/HDpSm17R8P5lo5rz24OrU6vim4ueHMivf9cfeaqBRXT
+vt1qWdi+79zn9eG01SmtL4s/FtaFl822t063Q9MyvtTmveOL54xvDg3PvTD47cE9
+cvh903MwMuvL0uMNWW2zM2eW7MlvGchpqu+vHJNYJF3tO7Fh8ivlqrdyUen57rXZ
+z40zmyYXHHm7JX140cbLdyYlPX0bPXjqx5MRu7dxyumf
+=JT3q
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/crablab
+
+==================================================================
+
